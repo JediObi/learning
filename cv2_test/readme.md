@@ -1,0 +1,1 @@
+show a drawing rectangle by cv2 
